@@ -1,7 +1,7 @@
 <h2>✨ 奔赴在自己的热爱里～✨ </h2>
 
 - 🌱 ID：有花不见叶
-- 🎒 Work：Web前端开发工程师
+- 🎒 Work：PHP暂时不接触了，目前正在做前端（Web前端开发工程师）
 - 🔭 From：山东泰安
 - 💬 WeChat：daipeng2020
 - 📧 Email：peng@vueweb.cn
@@ -16,5 +16,4 @@
 <a href="https://github.com/daipenglcc/daipenglcc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daipenglcc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
 
