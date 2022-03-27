@@ -5,7 +5,7 @@
 - 🔭 From：山东泰安
 - 💬 WeChat：daipeng2020
 - 📧 Email：peng@vueweb.cn
-- ⚡ Main Skill：``Vue``、``React``、``WebPack``、``Vite``、``PHP``、`Linux`、``Docker``、``Mysql``
+- ⚡ Main Skill：``Vue``、``React``、``TypeScript``、``WebPack``、``Vite``、``PHP``、`Linux`、``Docker``、``Mysql``
 - 🤔 Deep heart：Wikipedia，我们意念合一
 
 ## &#x1f4c8; GitHub Stats
