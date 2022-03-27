@@ -4,7 +4,7 @@
 - 🎒 Work：Web前端开发工程师
 - 🔭 From：山东泰安
 - 💬 WeChat：daipeng2020
-- 📧Email：peng@vueweb.cn
+- 📧 Email：peng@vueweb.cn
 - ⚡ Main Skill：``Vue``、``React``、``WebPack``、``Vite``、``PHP``、`Linux`、``Docker``、``Mysql``
 - 🤔 Deep heart：Wikipedia，我们意念合一
 
