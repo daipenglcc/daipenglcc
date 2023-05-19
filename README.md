@@ -5,7 +5,7 @@
 </h1>
 
 - 🌱 ID：有花不见叶
-- 🎒 Work：PHP暂时不接触了，目前正在做前端（Web前端开发工程师）
+- 🎒 Work：Web前端开发、PHP开发
 - 🔭 From：山东泰安
 - 💬 WeChat：daipeng2020
 - 📧 Email：peng@vueweb.cn
